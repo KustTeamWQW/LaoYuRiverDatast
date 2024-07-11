@@ -12,3 +12,7 @@
   keywords={Feature extraction;Training;Convolution;Convolutional neural networks;Correlation;Data mining;Transformers;Convolutional neural networks (CNNs);hypergraph convolutional network;advantageous feature differential enhancement fusion;hyperspectral image (HSI) classification},
   doi={10.1109/JSTARS.2024.3403863}}
 
+![image](https://github.com/KustTeamWQW/LaoYuRiverDatast/assets/107611186/7d0057ce-17e3-47d1-b396-8dbb81f1f997)
+
+![image](https://github.com/KustTeamWQW/LaoYuRiverDatast/assets/107611186/b25eb97c-7fe9-4430-86ee-0e63df10cbc1)
+
